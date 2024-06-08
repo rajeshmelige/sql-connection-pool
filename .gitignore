@@ -1,0 +1,10 @@
+# Maven specific
+target/
+
+#IDEA
+.idea
+.idea/
+*.iml
+
+#MacOS
+.DS_Store
